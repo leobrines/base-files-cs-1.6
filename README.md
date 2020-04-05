@@ -1,4 +1,4 @@
-All these files are one-unzip to install, you dont need to know where to put rehlds files, just unzip and restart server
+All these files are one-unzip to install, you dont need to know where to put the files, just unzip and restart server
 
 # How to use these zip files?
 
