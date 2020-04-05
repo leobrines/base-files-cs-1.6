@@ -22,7 +22,7 @@ Ready, now you have rehlds installed!
 This is a bash script example with anticheats-amx.zip file
 
 ```sh
-# Download and unzip zip file. Example:
+# Download and unzip zip file
 
 cd /path/to/hlds-server/
 wget https://github.com/leobrines/base-files-cs-1.6/raw/master/anticheats-amx.zip
@@ -44,6 +44,9 @@ chmod +x amxxpc*
 # Move your compiled files to "plugins" folders
 
 mv *.amxx ../plugins/
+
+# Return to initial dir
+cd -
 ```
 
 Ready, you have Anticheat plugins installed on your server
