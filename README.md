@@ -1,2 +1,13 @@
-# base-files-cs-1.6
-Easily download files to create Counter Strike 1.6 server. Useful for creating servers with bash scripts
+# How to use these zip files?
+1. Go to your HLDS server directory
+´´´sh
+cd /path/to/server
+´´´
+2. Download file
+´´´sh
+wget https://github.com/leobrines/base-files-cs-1.6/raw/master/rehlds-3.7.0.694.zip
+´´´
+3. Unzip file
+unzip rehlds-3.7.0.694.zip
+
+Ready, now yo have rehlds installed!
