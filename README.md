@@ -44,9 +44,6 @@ chmod +x amxxpc*
 # Move your compiled files to "plugins" folders
 
 mv *.amxx ../plugins/
-
-# Return to initial dir
-cd -
 ```
 
 Ready, you have Anticheat plugins installed on your server
