@@ -1,3 +1,5 @@
+All these files are one-unzip to install, you dont need to know where to put rehlds files, just unzip and restart server
+
 # How to use these zip files?
 1. Go to your HLDS server directory
 
@@ -17,4 +19,4 @@ wget https://github.com/leobrines/base-files-cs-1.6/raw/master/rehlds-3.7.0.694.
 unzip rehlds-3.7.0.694.zip
 ```
 
-Ready, now yo have rehlds installed!
+Ready, now you have rehlds installed!
