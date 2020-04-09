@@ -46,4 +46,6 @@ chmod +x amxxpc*
 mv *.amxx ../plugins/
 ```
 
-Ready, you have Anticheat plugins installed on your server
+# Util source links
+* [AMX official 1.8 versions](https://www.amxmodx.org/amxxdrop/1.8)
+
